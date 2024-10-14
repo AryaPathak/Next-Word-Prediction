@@ -33,5 +33,8 @@ quotes = [
     "And those who were seen dancing were thought to be insane by those who could not hear the music.",
     "It is hard enough to remember my opinions, without also remembering my reasons for them!"
 ]
+
+
+PS: Fine tune hyperparameters for better results. Increase epochs, tune the learning rate, etc
 Conclusion
 This next-word prediction model showcases the application of LSTM networks in natural language processing. It serves as a foundation for developing more sophisticated text generation and completion systems. Further improvements can include training on larger datasets and tuning hyperparameters for better performance.
