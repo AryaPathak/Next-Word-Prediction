@@ -1,0 +1,11 @@
+Shuffle true:
+0.10 -> accuracy: 0.0628 - loss: 6.6026 - val_accuracy: 0.0864 - val_loss: 6.9711
+0.13 -> accuracy: 0.0607 - loss: 7.4948 - val_accuracy: 0.1049 - val_loss: 6.0496
+0.15 -> accuracy: 0.0765 - loss: 6.7935 - val_accuracy: 0.0855 - val_loss: 6.8842
+0.25 -> accuracy: 0.0518 - loss: 7.8616 - val_accuracy: 0.0950 - val_loss: 6.1425
+0.50 -> accuracy: 0.0646 - loss: 7.1725 - val_accuracy: 0.0926 - val_loss: 6.1153
+
+
+Shuffle fals:
+0.10 -> accuracy: 0.0770 - loss: 6.6907 - val_accuracy: 0.0782 - val_loss: 6.9875
+0.12 -> accuracy: 0.0820
